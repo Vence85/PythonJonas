@@ -1,0 +1,8 @@
+[
+    {
+        "Timestamp": "09:33:54.908251",
+        "Log level": "ERROR",
+        "Thread": "MainThread",
+        "Detail message": "Encountered an error: Database Error 003001 (42501): SQL access control error: Insufficient privileges to operate on database 'JOB_ADS'"
+    }
+]
